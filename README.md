@@ -1,2 +1,4 @@
-# Intro2PytorchUdacitycourse
-Here the codes of Lesson-5 of the Bertelsmann Tech Scholarship program are provided 
+# Intro2PytorchUdacitycourse_Challenge
+A challenge of the month - multiclass  classification of 12 animals from Chinese zodiac
+
+
